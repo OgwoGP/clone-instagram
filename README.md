@@ -18,6 +18,9 @@ Praticar as habilidades de CSS Flexbox.
 
 ### 📌  Screenshot
 
+<img src="/mockup/desktop-clone-instagram.png" alt="Instagram Desktop" width="400">
+<img src="/mockup/mobile-clone-instagram.png" alt="Instagram Mobile" width="250">
+
 ### 🔗 Links
 
 URL: [Clone Instagram](https://tawaramartins.github.io/clone-instagram/)
